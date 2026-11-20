@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PulseCore</string>
+    <string name="nav_boost">Boost</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_storage">Storage</string>
+    <string name="nav_bob">Bob AI</string>
+    <string name="boost_now">Optimize for Gaming</string>
+    <string name="add_folder">Add Folder to Scan</string>
+    <string name="customize_bob">Customize Bob</string>
+</resources>

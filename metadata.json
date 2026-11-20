@@ -1,0 +1,6 @@
+{
+  "name": "PulseCore",
+  "description": "Adaptive gaming performance, thermal target slider with Gemini AI overview, memory trim, and real storage manager for Android phones and tablets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
